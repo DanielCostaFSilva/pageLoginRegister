@@ -1,4 +1,4 @@
-Formulário de Login Responsivo
+Formulário de Login
 
 Este é um simples formulário de login responsivo com uma transição suave entre as opções de login e registro. Ele utiliza HTML e CSS para criar uma interface de usuário atraente e interativa.
 
